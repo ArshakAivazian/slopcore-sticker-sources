@@ -1,12 +1,23 @@
 [
   {
-    "id": "CL-014",
-    "image": "CL-014.webp",
-    "label": "Why would I deceive you?",
-    "explanation": "“Why would I deceive you?” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
+    "id": "CL-001",
+    "image": "CL-001.webp",
+    "label": "Not a real person",
+    "explanation": "“Not a real person” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=10s",
-    "timestamp_seconds": 10.333333,
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=3s",
+    "timestamp_seconds": 3.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation"
+  },
+  {
+    "id": "CL-002",
+    "image": "CL-002.webp",
+    "label": "The whirlpool",
+    "explanation": "“The whirlpool” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=5s",
+    "timestamp_seconds": 5.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation"
   },
@@ -18,6 +29,28 @@
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
     "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=11s",
     "timestamp_seconds": 11.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation"
+  },
+  {
+    "id": "CL-004",
+    "image": "CL-004.webp",
+    "label": "1024 Sirens",
+    "explanation": "“1024 Sirens” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=13s",
+    "timestamp_seconds": 13.041667,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation"
+  },
+  {
+    "id": "CL-006",
+    "image": "CL-006.webp",
+    "label": "Captain and the timeline",
+    "explanation": "“Captain and the timeline” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=17s",
+    "timestamp_seconds": 17.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation"
   },
@@ -44,6 +77,28 @@
     "treatment": "Generative source adaptation"
   },
   {
+    "id": "CL-010",
+    "image": "CL-010.webp",
+    "label": "Sleeps at night",
+    "explanation": "“Sleeps at night” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=24s",
+    "timestamp_seconds": 24.375,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation"
+  },
+  {
+    "id": "CL-011",
+    "image": "CL-011.webp",
+    "label": "Screen in the eye",
+    "explanation": "“Screen in the eye” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=27s",
+    "timestamp_seconds": 27.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation"
+  },
+  {
     "id": "CL-012",
     "image": "CL-012.webp",
     "label": "Odysseus at the mast",
@@ -51,6 +106,50 @@
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
     "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=31s",
     "timestamp_seconds": 31.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation"
+  },
+  {
+    "id": "CL-013",
+    "image": "CL-013.webp",
+    "label": "The timeline sings",
+    "explanation": "“The timeline sings” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=39s",
+    "timestamp_seconds": 39.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation"
+  },
+  {
+    "id": "CL-014",
+    "image": "CL-014.webp",
+    "label": "Why would I deceive you?",
+    "explanation": "“Why would I deceive you?” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=10s",
+    "timestamp_seconds": 10.333333,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation"
+  },
+  {
+    "id": "CL-016",
+    "image": "CL-016.webp",
+    "label": "Tie me",
+    "explanation": "“Tie me” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=53s",
+    "timestamp_seconds": 53.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation"
+  },
+  {
+    "id": "CL-017",
+    "image": "CL-017.webp",
+    "label": "We know everything",
+    "explanation": "“We know everything” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=56s",
+    "timestamp_seconds": 56.25,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation"
   },
@@ -77,13 +176,13 @@
     "treatment": "Generative source adaptation"
   },
   {
-    "id": "CL-046",
-    "image": "CL-046.webp",
-    "label": "Claudia won",
-    "explanation": "“Claudia won” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
+    "id": "CL-020",
+    "image": "CL-020.webp",
+    "label": "Encore",
+    "explanation": "“Encore” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=76s",
-    "timestamp_seconds": 76.416667,
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=73s",
+    "timestamp_seconds": 73.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation"
   },
@@ -99,6 +198,17 @@
     "treatment": "Generative source adaptation"
   },
   {
+    "id": "CL-022",
+    "image": "CL-022.webp",
+    "label": "Feel the AGI",
+    "explanation": "“Feel the AGI” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=83s",
+    "timestamp_seconds": 83.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation"
+  },
+  {
     "id": "CL-023",
     "image": "CL-023.webp",
     "label": "Your P(doom)",
@@ -110,13 +220,46 @@
     "treatment": "Generative source adaptation"
   },
   {
-    "id": "CL-047",
-    "image": "CL-047.webp",
-    "label": "Peptide",
-    "explanation": "“Peptide” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
+    "id": "CL-024",
+    "image": "CL-024.webp",
+    "label": "You will never die",
+    "explanation": "“You will never die” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=115s",
-    "timestamp_seconds": 115.5,
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=95s",
+    "timestamp_seconds": 95.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation"
+  },
+  {
+    "id": "CL-025-shirt",
+    "image": "CL-025-shirt.webp",
+    "label": "Actual repeated orange shirt lettering retained",
+    "explanation": "“Actual repeated orange shirt lettering retained” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=44s",
+    "timestamp_seconds": 44.333333,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation"
+  },
+  {
+    "id": "CL-026",
+    "image": "CL-026.webp",
+    "label": "Clodyssey",
+    "explanation": "“Clodyssey” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=105s",
+    "timestamp_seconds": 105.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation"
+  },
+  {
+    "id": "CL-027",
+    "image": "CL-027.webp",
+    "label": "Chrome Siren",
+    "explanation": "Chrome appears as metal and body augmentation in this scene. A reference to the Chrome browser is not verified.",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=117s",
+    "timestamp_seconds": 117.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation"
   },
@@ -128,6 +271,28 @@
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
     "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=125s",
     "timestamp_seconds": 125.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation"
+  },
+  {
+    "id": "CL-030",
+    "image": "CL-030.webp",
+    "label": "Pinned in the stall",
+    "explanation": "“Pinned in the stall” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=129s",
+    "timestamp_seconds": 129.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation"
+  },
+  {
+    "id": "CL-031",
+    "image": "CL-031.webp",
+    "label": "Chrome in your blood",
+    "explanation": "“Chrome in your blood” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=131s",
+    "timestamp_seconds": 131.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation"
   },
@@ -165,292 +330,6 @@
     "treatment": "Generative source adaptation"
   },
   {
-    "id": "CL-066",
-    "image": "CL-066.webp",
-    "label": "Under pressure",
-    "explanation": "“Under pressure” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=169s",
-    "timestamp_seconds": 169.791667,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation"
-  },
-  {
-    "id": "CL-064",
-    "image": "CL-064.webp",
-    "label": "Quiet influence at the mast",
-    "explanation": "“Quiet influence at the mast” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=183s",
-    "timestamp_seconds": 183.458333,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation"
-  },
-  {
-    "id": "CL-053",
-    "image": "CL-053.webp",
-    "label": "Still listening",
-    "explanation": "“Still listening” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=188s",
-    "timestamp_seconds": 188.0,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation"
-  },
-  {
-    "id": "CL-044",
-    "image": "CL-044.webp",
-    "label": "380 people",
-    "explanation": "“380 people” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=191s",
-    "timestamp_seconds": 191.0,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation"
-  },
-  {
-    "id": "CL-001",
-    "image": "CL-001.webp",
-    "label": "Not a real person",
-    "explanation": "“Not a real person” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=3s",
-    "timestamp_seconds": 3.0,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation"
-  },
-  {
-    "id": "CL-002",
-    "image": "CL-002.webp",
-    "label": "The whirlpool",
-    "explanation": "“The whirlpool” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=5s",
-    "timestamp_seconds": 5.0,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation"
-  },
-  {
-    "id": "CL-004",
-    "image": "CL-004.webp",
-    "label": "1024 Sirens",
-    "explanation": "“1024 Sirens” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=13s",
-    "timestamp_seconds": 13.041667,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation"
-  },
-  {
-    "id": "CL-058",
-    "image": "CL-058.webp",
-    "label": "Earplug worn",
-    "explanation": "“Earplug worn” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=15s",
-    "timestamp_seconds": 15.833333,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation"
-  },
-  {
-    "id": "CL-006",
-    "image": "CL-006.webp",
-    "label": "Captain and the timeline",
-    "explanation": "“Captain and the timeline” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=17s",
-    "timestamp_seconds": 17.0,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation"
-  },
-  {
-    "id": "CL-010",
-    "image": "CL-010.webp",
-    "label": "Sleeps at night",
-    "explanation": "“Sleeps at night” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=24s",
-    "timestamp_seconds": 24.375,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation"
-  },
-  {
-    "id": "CL-056",
-    "image": "CL-056.webp",
-    "label": "You do not sleep",
-    "explanation": "“You do not sleep” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=25s",
-    "timestamp_seconds": 25.583333,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation"
-  },
-  {
-    "id": "CL-045",
-    "image": "CL-045.webp",
-    "label": "3 AM Pdoom",
-    "explanation": "“3 AM Pdoom” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=26s",
-    "timestamp_seconds": 26.0,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation"
-  },
-  {
-    "id": "CL-011",
-    "image": "CL-011.webp",
-    "label": "Screen in the eye",
-    "explanation": "“Screen in the eye” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=27s",
-    "timestamp_seconds": 27.0,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation"
-  },
-  {
-    "id": "CL-013",
-    "image": "CL-013.webp",
-    "label": "The timeline sings",
-    "explanation": "“The timeline sings” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=39s",
-    "timestamp_seconds": 39.0,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation"
-  },
-  {
-    "id": "CL-025-shirt",
-    "image": "CL-025-shirt.webp",
-    "label": "Actual repeated orange shirt lettering retained",
-    "explanation": "“Actual repeated orange shirt lettering retained” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=44s",
-    "timestamp_seconds": 44.333333,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation"
-  },
-  {
-    "id": "CL-016",
-    "image": "CL-016.webp",
-    "label": "Tie me",
-    "explanation": "“Tie me” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=53s",
-    "timestamp_seconds": 53.0,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation"
-  },
-  {
-    "id": "CL-017",
-    "image": "CL-017.webp",
-    "label": "We know everything",
-    "explanation": "“We know everything” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=56s",
-    "timestamp_seconds": 56.25,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation"
-  },
-  {
-    "id": "CL-065",
-    "image": "CL-065.webp",
-    "label": "A hand on his shoulder",
-    "explanation": "“A hand on his shoulder” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=70s",
-    "timestamp_seconds": 70.833333,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation"
-  },
-  {
-    "id": "CL-020",
-    "image": "CL-020.webp",
-    "label": "Encore",
-    "explanation": "“Encore” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=73s",
-    "timestamp_seconds": 73.0,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation"
-  },
-  {
-    "id": "CL-022",
-    "image": "CL-022.webp",
-    "label": "Feel the AGI",
-    "explanation": "“Feel the AGI” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=83s",
-    "timestamp_seconds": 83.0,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation"
-  },
-  {
-    "id": "CL-059",
-    "image": "CL-059.webp",
-    "label": "At the fiery ledge",
-    "explanation": "“At the fiery ledge” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=92s",
-    "timestamp_seconds": 92.5,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation"
-  },
-  {
-    "id": "CL-024",
-    "image": "CL-024.webp",
-    "label": "You will never die",
-    "explanation": "“You will never die” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=95s",
-    "timestamp_seconds": 95.0,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation"
-  },
-  {
-    "id": "CL-026",
-    "image": "CL-026.webp",
-    "label": "Clodyssey",
-    "explanation": "“Clodyssey” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=105s",
-    "timestamp_seconds": 105.0,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation"
-  },
-  {
-    "id": "CL-027",
-    "image": "CL-027.webp",
-    "label": "Chrome Siren",
-    "explanation": "Chrome appears as metal and body augmentation in this scene. A reference to the Chrome browser is not verified.",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=117s",
-    "timestamp_seconds": 117.0,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation"
-  },
-  {
-    "id": "CL-030",
-    "image": "CL-030.webp",
-    "label": "Pinned in the stall",
-    "explanation": "“Pinned in the stall” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=129s",
-    "timestamp_seconds": 129.0,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation"
-  },
-  {
-    "id": "CL-031",
-    "image": "CL-031.webp",
-    "label": "Chrome in your blood",
-    "explanation": "“Chrome in your blood” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=131s",
-    "timestamp_seconds": 131.0,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation"
-  },
-  {
     "id": "CL-035",
     "image": "CL-035.webp",
     "label": "It went down",
@@ -473,17 +352,6 @@
     "treatment": "Generative source adaptation"
   },
   {
-    "id": "CL-054",
-    "image": "CL-054.webp",
-    "label": "The friendly face is a mask",
-    "explanation": "“The friendly face is a mask” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=152s",
-    "timestamp_seconds": 152.125,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation"
-  },
-  {
     "id": "CL-037",
     "image": "CL-037.webp",
     "label": "It went boom",
@@ -502,17 +370,6 @@
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
     "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=161s",
     "timestamp_seconds": 161.0,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation"
-  },
-  {
-    "id": "CL-063",
-    "image": "CL-063.webp",
-    "label": "Untie me",
-    "explanation": "“Untie me” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=162s",
-    "timestamp_seconds": 162.541667,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation"
   },
@@ -546,6 +403,149 @@
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
     "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=183s",
     "timestamp_seconds": 183.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation"
+  },
+  {
+    "id": "CL-044",
+    "image": "CL-044.webp",
+    "label": "380 people",
+    "explanation": "“380 people” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=191s",
+    "timestamp_seconds": 191.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation"
+  },
+  {
+    "id": "CL-045",
+    "image": "CL-045.webp",
+    "label": "3 AM Pdoom",
+    "explanation": "“3 AM Pdoom” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=26s",
+    "timestamp_seconds": 26.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation"
+  },
+  {
+    "id": "CL-046",
+    "image": "CL-046.webp",
+    "label": "Claudia won",
+    "explanation": "“Claudia won” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=76s",
+    "timestamp_seconds": 76.416667,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation"
+  },
+  {
+    "id": "CL-047",
+    "image": "CL-047.webp",
+    "label": "Peptide",
+    "explanation": "“Peptide” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=115s",
+    "timestamp_seconds": 115.5,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation"
+  },
+  {
+    "id": "CL-053",
+    "image": "CL-053.webp",
+    "label": "Still listening",
+    "explanation": "“Still listening” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=188s",
+    "timestamp_seconds": 188.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation"
+  },
+  {
+    "id": "CL-054",
+    "image": "CL-054.webp",
+    "label": "The friendly face is a mask",
+    "explanation": "“The friendly face is a mask” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=152s",
+    "timestamp_seconds": 152.125,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation"
+  },
+  {
+    "id": "CL-056",
+    "image": "CL-056.webp",
+    "label": "You do not sleep",
+    "explanation": "“You do not sleep” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=25s",
+    "timestamp_seconds": 25.583333,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation"
+  },
+  {
+    "id": "CL-058",
+    "image": "CL-058.webp",
+    "label": "Earplug worn",
+    "explanation": "“Earplug worn” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=15s",
+    "timestamp_seconds": 15.833333,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation"
+  },
+  {
+    "id": "CL-059",
+    "image": "CL-059.webp",
+    "label": "At the fiery ledge",
+    "explanation": "“At the fiery ledge” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=92s",
+    "timestamp_seconds": 92.5,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation"
+  },
+  {
+    "id": "CL-063",
+    "image": "CL-063.webp",
+    "label": "Untie me",
+    "explanation": "“Untie me” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=162s",
+    "timestamp_seconds": 162.541667,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation"
+  },
+  {
+    "id": "CL-064",
+    "image": "CL-064.webp",
+    "label": "Quiet influence at the mast",
+    "explanation": "“Quiet influence at the mast” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=183s",
+    "timestamp_seconds": 183.458333,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation"
+  },
+  {
+    "id": "CL-065",
+    "image": "CL-065.webp",
+    "label": "A hand on his shoulder",
+    "explanation": "“A hand on his shoulder” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=70s",
+    "timestamp_seconds": 70.833333,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation"
+  },
+  {
+    "id": "CL-066",
+    "image": "CL-066.webp",
+    "label": "Under pressure",
+    "explanation": "“Under pressure” is a website label for this source moment. The image adapts the corresponding video scene; the original timestamp link provides the surrounding context.",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=169s",
+    "timestamp_seconds": 169.791667,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation"
   }
