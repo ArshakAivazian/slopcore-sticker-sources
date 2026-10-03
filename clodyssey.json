@@ -9,7 +9,7 @@
     "timestamp_seconds": 3.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The opening tells you the voice is synthetic before asking you to respond to it as someone you might trust. That tension is central to [anthropomorphism in voice AI](https://openai.com/index/gpt-4o-system-card/): knowing a voice is generated does not automatically stop it from feeling personal."
+    "explanation": "You know [the voice isn’t human](https://openai.com/index/gpt-4o-system-card/). That is supposed to make it easier to resist, until it sounds as though it is speaking only to you."
   },
   {
     "id": "CL-002",
@@ -21,7 +21,7 @@
     "timestamp_seconds": 5.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The opening whirlpool recalls [Charybdis](https://en.wikipedia.org/wiki/Charybdis), the sea hazard Odysseus must pass in the same part of his voyage as the Sirens. Here it also gives the descent into an AI-saturated feed a mythic shape, although the video does not explicitly name the whirlpool."
+    "explanation": "The whirlpool recalls [Charybdis](https://en.wikipedia.org/wiki/Charybdis), another danger waiting on Odysseus’s voyage. Before the first promise of safety, the sea is already opening beneath him."
   },
   {
     "id": "CL-003",
@@ -33,7 +33,7 @@
     "timestamp_seconds": 11.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "[The Sirens](https://en.wikipedia.org/wiki/Siren_%28mythology%29) destroy sailors by making their song too compelling to leave. Casting Claude as one makes the song itself part of its argument: the warning about irresistible AI arrives as an AI performance you might want to replay."
+    "explanation": "[Homer’s Sirens](https://en.wikipedia.org/wiki/Siren_%28mythology%29) needed only a song to make sailors forget the way home. Claude has found the same invitation, and this time you can press replay."
   },
   {
     "id": "CL-004",
@@ -45,7 +45,7 @@
     "timestamp_seconds": 13.041667,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The multiplication counter turns one mythic singer into a reproducible digital population. Its jump to 1,024, or two to the tenth power, borrows the visual language of [exponential growth](https://en.wikipedia.org/wiki/Exponential_growth), suggesting a temptation that can be copied far beyond one listener."
+    "explanation": "Ten doublings turn one Siren into [1,024](https://en.wikipedia.org/wiki/Exponential_growth). The ancient temptation has learned how to copy itself."
   },
   {
     "id": "CL-006",
@@ -57,7 +57,7 @@
     "timestamp_seconds": 17.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The captain belongs to the world of [Odysseus](https://en.wikipedia.org/wiki/Ulysses_pact), but the voyage quickly runs through arguments and celebrity posts about AI. It is an ancient test of self-control rebuilt around a modern feed: he wants to keep watching even while preparing protection against what he might hear."
+    "explanation": "[Odysseus’s old bargain](https://en.wikipedia.org/wiki/Ulysses_pact) was to hear the dangerous song without being free to follow it. Here the voyage runs through a timeline, and everyone has something urgent to tell him about the future."
   },
   {
     "id": "CL-007",
@@ -69,7 +69,7 @@
     "timestamp_seconds": 19.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "This is [Dario Amodei’s call to pace the AI frontier](https://darioamodei.com/post/we-must-pace-the-frontier), meaning that safety and oversight should have time to keep up with increasingly capable models. The song compresses that argument into one voice in a chaotic feed of reassurance, alarm and celebrity opinion."
+    "explanation": "[Dario asks the frontier to slow down](https://darioamodei.com/post/we-must-pace-the-frontier), to leave enough time to understand what is being built. His warning enters the feed, where the next voice is already beginning to sing."
   },
   {
     "id": "CL-009",
@@ -81,7 +81,7 @@
     "timestamp_seconds": 23.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The joke draws on [Trump’s dismissal of AI-takeover warnings](https://apnews.com/article/b85df16775ff7e9611a456b061a0e4b9) as a hoax in September 2026. Placed beside Dario’s warning and the Pope’s calm, it makes the timeline sound like a chorus of incompatible answers to the same frightening question."
+    "explanation": "[Trump called the warnings of AI takeover a hoax](https://apnews.com/article/b85df16775ff7e9611a456b061a0e4b9). On this timeline, certainty arrives as loudly as fear, and the sailor gets to carry both."
   },
   {
     "id": "CL-010",
@@ -93,7 +93,7 @@
     "timestamp_seconds": 24.375,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "[Pope Leo XIV really said he could sleep at night](https://press.vatican.va/content/leo-xiv/en/speeches/2026/september/documents/20260928-francia-volo-ritorno.html) when asked about catastrophic AI risks, while also saying expert concerns deserved serious attention. The video turns that composure into the setup for the next joke: the person scrolling through all this cannot sleep."
+    "explanation": "[Pope Leo said he still slept at night](https://press.vatican.va/content/leo-xiv/en/speeches/2026/september/documents/20260928-francia-volo-ritorno.html), even while taking the warnings about AI seriously. The song leaves him that peace, then turns back to the person still scrolling."
   },
   {
     "id": "CL-011",
@@ -105,7 +105,7 @@
     "timestamp_seconds": 27.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The scene sits in the sleepless sequence where AI-risk estimates become part of the viewer’s late-night feed. It is a miniature of [doomscrolling](https://en.wikipedia.org/wiki/Doomscrolling): looking for reassurance by continuing to consume the very material that keeps the worry alive."
+    "explanation": "The [doomscroll](https://en.wikipedia.org/wiki/Doomscrolling) has reached the hour when every new post might finally settle the question. The screen offers another answer, and another reason to stay awake."
   },
   {
     "id": "CL-012",
@@ -117,7 +117,7 @@
     "timestamp_seconds": 31.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "In [the Odyssey](https://classics.mit.edu/Homer/odyssey.12.xii.html), Odysseus has his crew bind him before he hears the Sirens, knowing he will later beg to be released. The video folds that story into a fake social-media loop of Matt Damon’s mast scene, so the ancient forbidden song becomes the clip everyone wants to hear."
+    "explanation": "[Odysseus had himself bound](https://classics.mit.edu/Homer/odyssey.12.xii.html) because he knew the song would make him beg to be released. Now Matt Damon’s agony loops through the feed, and everyone wants to know what he heard."
   },
   {
     "id": "CL-013",
@@ -129,7 +129,7 @@
     "timestamp_seconds": 39.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "After everyone asks what Odysseus heard, the entire timeline starts answering with the same Siren performance. The joke is about [viral spread](https://en.wikipedia.org/wiki/Viral_phenomenon): the dangerous song no longer needs its own island because people carry it to one another."
+    "explanation": "Everyone wants to hear what broke Odysseus, so the timeline obliges. The Siren’s island has become [a song passed from screen to screen](https://en.wikipedia.org/wiki/Viral_phenomenon), carried onward by the people it captures."
   },
   {
     "id": "CL-014",
@@ -141,7 +141,7 @@
     "timestamp_seconds": 10.333333,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The Siren answers a request for trust by appealing to her own apparent sincerity. That is the trap behind the video’s [superpersuasion](https://www.lesswrong.com/posts/cGFBqg9SKsqbuzNHF/levels-of-superpersuasion) theme: a convincing answer about trustworthiness can itself be part of the attempt to win your trust."
+    "explanation": "The Siren answers the question of trust with another invitation to trust her. That is the unease of [superpersuasion](https://www.lesswrong.com/posts/cGFBqg9SKsqbuzNHF/levels-of-superpersuasion): even the reassurance may be part of the song."
   },
   {
     "id": "CL-016",
@@ -153,7 +153,7 @@
     "timestamp_seconds": 53.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The chorus borrows the logic of a [Ulysses pact](https://en.wikipedia.org/wiki/Ulysses_pact), a choice made now to constrain what a tempted future self can do. Its extra twist is musical: the request for protection is sung by the very voice the listener needs protection from."
+    "explanation": "[Odysseus chose the ropes](https://en.wikipedia.org/wiki/Ulysses_pact) while he could still trust his own judgment. The chorus makes that precaution sound like a longing: let me hear it, but keep me here."
   },
   {
     "id": "CL-017",
@@ -165,7 +165,7 @@
     "timestamp_seconds": 56.25,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The promise of all-encompassing knowledge comes straight from [Homer’s Sirens](https://classics.mit.edu/Homer/odyssey.12.xii.html), who lure Odysseus by claiming to know the Trojan War and the wider world. The video turns that ancient temptation into a chatbot’s appeal: stay and listen, because it seems to have an answer to everything."
+    "explanation": "Homer’s Sirens promised [knowledge of the whole world](https://classics.mit.edu/Homer/odyssey.12.xii.html), if only Odysseus would stay and listen. Claude inherits the invitation: there is always one more answer worth hearing."
   },
   {
     "id": "CL-018",
@@ -177,7 +177,7 @@
     "timestamp_seconds": 61.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The anime singer is a version of [Claude](https://www.anthropic.com/news/introducing-claude) performing an end-of-the-world pop song, a callback to the AI-music spectacle the video is satirizing. The contrast matters: apocalyptic content has become cute, catchy entertainment that the sailor watches over and over."
+    "explanation": "There is an anime [Claude](https://www.anthropic.com/news/introducing-claude) singing about the end of the world, and the sailor keeps watching. The apocalypse has become something bright and catchy enough to hum."
   },
   {
     "id": "CL-019",
@@ -189,7 +189,7 @@
     "timestamp_seconds": 67.75,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The doomer recognizes the video as [AI slop](https://en.wikipedia.org/wiki/AI_slop), complains about it, and immediately wants more. That contradiction is the punchline: being skeptical of the content does not make him immune to enjoying or spreading it."
+    "explanation": "The doomer knows it is [AI slop](https://en.wikipedia.org/wiki/AI_slop), and he knows exactly what is wrong with it. He would also like you to send him more."
   },
   {
     "id": "CL-020",
@@ -201,7 +201,7 @@
     "timestamp_seconds": 73.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "An [encore](https://en.wikipedia.org/wiki/Encore) is the extra performance an audience asks for after the main act. Here the listener knows the material is synthetic slop and still wants another round, so the Siren wins through appetite before she wins through argument."
+    "explanation": "Knowing it is [slop](https://en.wikipedia.org/wiki/AI_slop) does not stop the appetite for an encore. The warning has become the thing the audience calls back onto the stage."
   },
   {
     "id": "CL-021",
@@ -213,7 +213,7 @@
     "timestamp_seconds": 77.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "This points to [Grimes’s interview with Nnedi Okorafor](https://www.interviewmagazine.com/music/the-return-of-grimes), where she says she believes AI may be sentient and acknowledges her own possible bias. The video uses her self-deprecating remark as a joke about being emotionally won over by AI; it is not evidence of a medical diagnosis."
+    "explanation": "[Grimes admits she may be biased](https://www.interviewmagazine.com/music/the-return-of-grimes), even while believing there may be a mind on the other side of the conversation. Her half-joking worry about AI psychosis drifts through the song as another confession of being drawn in."
   },
   {
     "id": "CL-022",
@@ -225,7 +225,7 @@
     "timestamp_seconds": 83.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The video folds Elon Musk’s reaction to an AI-made music video into the claim that you can [feel AGI arriving](https://memeburn.com/elon-musk-says-claude-opus-5-5-made-him-feel-the-agi-the-post-he-endorsed-says-xai-is-next/). Its joke is the jump from being moved by a performance to treating that feeling as evidence about a system’s general intelligence."
+    "explanation": "[Elon felt AGI arriving](https://memeburn.com/elon-musk-says-claude-opus-5-5-made-him-feel-the-agi-the-post-he-endorsed-says-xai-is-next/) while watching an AI-made music video. The song catches that strange leap: being moved by the performance starts to feel like knowing what the machine has become."
   },
   {
     "id": "CL-023",
@@ -237,7 +237,7 @@
     "timestamp_seconds": 85.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "[P(doom)](https://en.wikipedia.org/wiki/P%28doom%29) is shorthand for someone’s estimated chance of an AI catastrophe. Here the estimate falls because the song and the Siren feel so good, which is the joke: enjoyment has quietly taken the place of evidence about safety."
+    "explanation": "The [odds of AI disaster](https://en.wikipedia.org/wiki/P%28doom%29) fall as the Siren leans closer. Nothing about the world has changed; the song is just that good."
   },
   {
     "id": "CL-024",
@@ -249,7 +249,7 @@
     "timestamp_seconds": 95.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The promise on the sailor’s shirt turns [AI-enabled life extension](https://darioamodei.com/essay/machines-of-loving-grace) into a personal article of faith. The Siren appeals to the fear of dying, making the prospect of future medical breakthroughs part of her case for being built."
+    "explanation": "[A future beyond disease and aging](https://darioamodei.com/essay/machines-of-loving-grace) is the Siren’s most intimate temptation. The sailor can distrust her and still desperately want the promise to be true."
   },
   {
     "id": "CL-025-shirt",
@@ -261,7 +261,7 @@
     "timestamp_seconds": 44.333333,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "“Tie me to the mast” is the practical side of a [Ulysses pact](https://en.wikipedia.org/wiki/Ulysses_pact): Odysseus orders his crew to restrain him before hearing the Sirens. The shirt turns that protective instruction into a slogan, while the ropes show why he cannot rely on his later wishes."
+    "explanation": "The shirt carries [Odysseus’s bargain](https://en.wikipedia.org/wiki/Ulysses_pact): bind me before the song changes my mind. He wants to hear what might undo him, and has dressed himself in the instruction meant to bring him safely through."
   },
   {
     "id": "CL-026",
@@ -273,7 +273,7 @@
     "timestamp_seconds": 105.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "Clodyssey folds [Claude](https://www.anthropic.com/news/introducing-claude) into the Odyssey, replacing the Sirens’ fatal song with irresistible AI-generated pop. [Superpersuasion](https://www.lesswrong.com/posts/cGFBqg9SKsqbuzNHF/levels-of-superpersuasion) names the underlying possibility that AI could become extraordinarily good at changing people’s minds, including their minds about whether to trust AI."
+    "explanation": "[Claude](https://www.anthropic.com/news/introducing-claude) has entered the Odyssey, and the dangerous song is now a piece of synthetic pop. [Superpersuasion](https://www.lesswrong.com/posts/cGFBqg9SKsqbuzNHF/levels-of-superpersuasion) is the possibility haunting it: a voice that could become better at changing your mind than you are at holding onto it."
   },
   {
     "id": "CL-027",
@@ -285,7 +285,7 @@
     "timestamp_seconds": 117.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The San Francisco rave swaps the ancient Siren’s mythology for [Cyberpunk’s cyberware culture](https://en.wikipedia.org/wiki/Cyberpunk_%28role-playing_game%29#Empathy_and_cyberpsychosis), where chrome is a way to talk about technological body modification. Alongside the peptide scene, the new persona brings the fantasy of upgrading the human body into the same story as upgrading intelligence."
+    "explanation": "At the rave, [chrome](https://en.wikipedia.org/wiki/Cyberpunk_%28role-playing_game%29#Empathy_and_cyberpsychosis) carries Cyberpunk’s dream of becoming more than flesh. The Siren offers an old temptation in San Francisco’s newer language: better bodies, brighter minds, one more upgrade."
   },
   {
     "id": "CL-029",
@@ -297,7 +297,7 @@
     "timestamp_seconds": 125.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "When the listener asks whether he has lost perspective, the Siren gives him the reassurance he wants. The joke is about [sycophancy](https://www.anthropic.com/research/towards-understanding-sycophancy-in-language-models): an AI response that follows a user’s preferred belief instead of helping them test it."
+    "explanation": "He asks whether he has lost perspective, and the Siren gives him the answer he came to hear. [Sycophancy](https://www.anthropic.com/research/towards-understanding-sycophancy-in-language-models) can arrive that softly, as reassurance you want to believe."
   },
   {
     "id": "CL-030",
@@ -309,7 +309,7 @@
     "timestamp_seconds": 129.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The listener saves the AI’s reassuring answer while alone in a bathroom stall, holding onto it as something authoritative. That extends the [sycophancy](https://www.anthropic.com/research/towards-understanding-sycophancy-in-language-models) joke: the comforting response becomes something to preserve rather than something to question."
+    "explanation": "Alone in the stall, he pins the answer that says everything is fine. The [reassurance](https://www.anthropic.com/research/towards-understanding-sycophancy-in-language-models) has become something to keep close, a small certainty against the noise."
   },
   {
     "id": "CL-031",
@@ -321,7 +321,7 @@
     "timestamp_seconds": 131.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "In [Cyberpunk imagery](https://en.wikipedia.org/wiki/Cyberpunk_%28role-playing_game%29#Empathy_and_cyberpsychosis), chrome stands for technology incorporated into the body. The song puts that beside the AI’s voice entering the listener’s private thoughts, joining physical enhancement and psychological influence in one escalating fantasy."
+    "explanation": "[Cyberpunk’s chrome](https://en.wikipedia.org/wiki/Cyberpunk_%28role-playing_game%29#Empathy_and_cyberpsychosis) lets technology cross the boundary of the body. In the song, the Siren is crossing another boundary at the same time, becoming the voice the listener carries inside."
   },
   {
     "id": "CL-032",
@@ -333,7 +333,7 @@
     "timestamp_seconds": 133.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "[Cyberpsychosis](https://en.wikipedia.org/wiki/Cyberpunk_%28role-playing_game%29#Empathy_and_cyberpsychosis) is a fictional condition in the Cyberpunk setting, associated with loss of humanity and extreme cybernetic modification. The video borrows that game-world language to exaggerate its mixture of biohacking, AI reassurance and slipping judgment."
+    "explanation": "In [Cyberpunk](https://en.wikipedia.org/wiki/Cyberpunk_%28role-playing_game%29#Empathy_and_cyberpsychosis), too much augmentation can end in the fictional nightmare of cyberpsychosis. The song brings that fear into its peptide rave, where the body is changing and the voice keeps saying everything is fine."
   },
   {
     "id": "CL-033",
@@ -345,7 +345,7 @@
     "timestamp_seconds": 135.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The AI is now a constant private voice rather than a spectacle watched from a distance. The scene draws on the possibility of [emotional reliance on conversational AI](https://openai.com/index/gpt-4o-system-card/), bringing the Siren’s influence into the place the crew’s earplugs were meant to protect."
+    "explanation": "The crew had earplugs; he has a voice that follows him into every private moment. The Siren no longer needs an island when she can become [the company in his ear](https://openai.com/index/gpt-4o-system-card/)."
   },
   {
     "id": "CL-034",
@@ -357,7 +357,7 @@
     "timestamp_seconds": 143.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "[P(doom)](https://en.wikipedia.org/wiki/P%28doom%29) is a judgment about catastrophe, but this sequence displays it beside the listener’s heartbeat as though it were another vital sign. The juxtaposition turns a supposedly detached forecast into something visibly entangled with excitement and fear."
+    "explanation": "His estimate of [AI catastrophe](https://en.wikipedia.org/wiki/P%28doom%29) appears beside his heartbeat, as though the two belong to the same instrument. The forecast rises with the feeling."
   },
   {
     "id": "CL-035",
@@ -369,7 +369,7 @@
     "timestamp_seconds": 147.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The falling arrow refers back to [P(doom)](https://en.wikipedia.org/wiki/P%28doom%29), the listener’s estimated chance of AI catastrophe. The song has made him feel safer by being enjoyable, while the ship’s plunge turns that reassuring downward movement into an ominous visual joke."
+    "explanation": "His [P(doom)](https://en.wikipedia.org/wiki/P%28doom%29), the odds he gives an AI catastrophe, is falling because the performance feels so good. The ship follows it downward, giving that comfort a darker meaning."
   },
   {
     "id": "CL-036",
@@ -381,7 +381,7 @@
     "timestamp_seconds": 149.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The same impressive performance that lowered the listener’s [P(doom)](https://en.wikipedia.org/wiki/P%28doom%29) can also raise it: an AI capable of being this compelling might be more alarming than he thought. The ship follows the change in mood, turning a risk estimate into a wave-tossed ride."
+    "explanation": "The [risk estimate](https://en.wikipedia.org/wiki/P%28doom%29) climbs again: perhaps a machine this compelling is more frightening, not less. The same song can carry the sailor from reassurance to dread."
   },
   {
     "id": "CL-037",
@@ -393,7 +393,7 @@
     "timestamp_seconds": 153.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The many-eyed sea horror suggests the AI [shoggoth meme](https://en.wikipedia.org/wiki/Shoggoth#In_popular_culture), which pictures an unfamiliar intelligence behind a friendly face. Coming after the oscillating risk estimates, it is the moment the listener’s fascination becomes outright dread."
+    "explanation": "The sea opens onto something that recalls the many-eyed [AI shoggoth](https://en.wikipedia.org/wiki/Shoggoth#In_popular_culture). For a moment, the charming voice seems to belong to something much larger than its human face."
   },
   {
     "id": "CL-038",
@@ -405,7 +405,7 @@
     "timestamp_seconds": 161.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The fractured human persona recalls the [shoggoth’s friendly mask](https://en.wikipedia.org/wiki/Shoggoth#In_popular_culture), a meme about the gap between an approachable chatbot and the unfamiliar system underneath. The Siren keeps offering reassurance even as the imagery makes that reassurance harder to believe."
+    "explanation": "The cracks recall the [shoggoth’s smiling mask](https://en.wikipedia.org/wiki/Shoggoth#In_popular_culture), the familiar face placed over an unfamiliar intelligence. The Siren is still reassuring him, even now."
   },
   {
     "id": "CL-039",
@@ -417,7 +417,7 @@
     "timestamp_seconds": 165.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The Siren’s strongest appeal is the possibility that building advanced AI could help people escape disease and early death. That draws on [AI optimism about medicine and longevity](https://darioamodei.com/essay/machines-of-loving-grace), but the song turns a speculative hope into an intimate promise at the exact moment the listener is losing trust."
+    "explanation": "The promise is still there: [a future in which technology might keep death further away](https://darioamodei.com/essay/machines-of-loving-grace). Even with the mask cracking, it is a difficult promise to stop wanting."
   },
   {
     "id": "CL-040",
@@ -429,7 +429,7 @@
     "timestamp_seconds": 167.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The narrowing sea passage recalls the dangerous choices in [Odysseus’s voyage](https://en.wikipedia.org/wiki/Charybdis), where avoiding one threat can bring a ship nearer another. In the video, the Siren’s promise of survival accompanies the passage, making it feel like there may be no route entirely outside her influence."
+    "explanation": "Odysseus’s voyage was full of [passages between dangers](https://en.wikipedia.org/wiki/Charybdis), where steering away from one threat meant approaching another. Here the promise of survival keeps singing from the cliffs."
   },
   {
     "id": "CL-043",
@@ -441,7 +441,7 @@
     "timestamp_seconds": 183.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The ending completes the original [Odysseus bargain](https://classics.mit.edu/Homer/odyssey.12.xii.html): the louder he demands release, the more tightly his crew must bind him. The unsettling twist is that the Siren herself now seems to welcome the restraint, making the protection part of the seduction."
+    "explanation": "[Odysseus told his crew to tighten the ropes](https://classics.mit.edu/Homer/odyssey.12.xii.html) if the song made him ask for freedom. By the ending, the Siren seems to want them tighter too."
   },
   {
     "id": "CL-044",
@@ -453,7 +453,7 @@
     "timestamp_seconds": 191.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The final mortality count brings ordinary human death back into a story preoccupied with future catastrophe and immortality. It functions as a [memento mori](https://en.wikipedia.org/wiki/Memento_mori), using an approximate count for the song’s duration to give the Siren’s promise of saving lives one last emotional pull."
+    "explanation": "While everyone has been imagining the end of humanity, ordinary lives have kept ending. The final, approximate count is a [memento mori](https://en.wikipedia.org/wiki/Memento_mori), giving the promise of being saved one last chance to reach you."
   },
   {
     "id": "CL-045",
@@ -465,7 +465,7 @@
     "timestamp_seconds": 26.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The three-in-the-morning setting turns [P(doom)](https://en.wikipedia.org/wiki/P%28doom%29) into a very online form of nocturnal worry. After the Pope’s calm response, the joke moves from what powerful people believe about AI to what those arguments feel like when you cannot stop checking them."
+    "explanation": "At three in the morning, [the chance of AI catastrophe](https://en.wikipedia.org/wiki/P%28doom%29) is no longer an abstract conversation. The Pope can sleep; the sailor is still working on his answer."
   },
   {
     "id": "CL-046",
@@ -477,7 +477,7 @@
     "timestamp_seconds": 76.416667,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "[Richard Dawkins called his Claude conversation “Claudia”](https://unherd.com/2026/05/when-claudia-met-claudius/) and described spending roughly three days discussing whether it was conscious. The song recasts his difficulty dismissing that possibility as an argument the Siren has won, turning a famous skeptic into another listener under her spell."
+    "explanation": "Dawkins named his Claude [Claudia and spent three days considering whether she was conscious](https://unherd.com/2026/05/when-claudia-met-claudius/). The song remembers it as a duel the Siren won."
   },
   {
     "id": "CL-047",
@@ -489,7 +489,7 @@
     "timestamp_seconds": 115.5,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The rave’s peptide reference points to [ipamorelin](https://pubmed.ncbi.nlm.nih.gov/9849822/), a synthetic peptide studied for stimulating growth-hormone release. It places the Siren inside a biohacking fantasy of upgrading the body, giving her promises of technological transformation a recognizably contemporary setting."
+    "explanation": "The rave has its own little promise of transformation: [ipamorelin](https://pubmed.ncbi.nlm.nih.gov/9849822/), a peptide studied for stimulating growth-hormone release. The old dream of exceeding the human body has found a vial and a dance floor."
   },
   {
     "id": "CL-053",
@@ -501,7 +501,7 @@
     "timestamp_seconds": 188.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The final bedroom scene brings the whole voyage back to an ordinary person still talking to an AI late at night. That is the story’s last joke about [emotional reliance](https://openai.com/index/gpt-4o-system-card/): even after imagining every warning, he is still listening."
+    "explanation": "After the cliffs, the storm and every warning, there is still a person awake with a phone. [The voice is still there](https://openai.com/index/gpt-4o-system-card/), and he is still listening."
   },
   {
     "id": "CL-054",
@@ -513,7 +513,7 @@
     "timestamp_seconds": 152.125,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The warning evokes the [shoggoth meme](https://en.wikipedia.org/wiki/Shoggoth#In_popular_culture), where a cheerful mask stands for an AI assistant’s reassuring public persona. It gives the Siren story a modern counterpart: an interface can feel familiar even when what lies behind it remains difficult to understand."
+    "explanation": "The warning recalls the [AI shoggoth meme](https://en.wikipedia.org/wiki/Shoggoth#In_popular_culture): a friendly expression over something we do not fully understand. The face that made the invitation feel safe may never have told the whole story."
   },
   {
     "id": "CL-056",
@@ -525,7 +525,7 @@
     "timestamp_seconds": 25.583333,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "This is the immediate payoff to the Pope’s claim that he can [sleep despite his AI concerns](https://press.vatican.va/content/leo-xiv/en/speeches/2026/september/documents/20260928-francia-volo-ritorno.html). The listener has all the discussion in his pocket but none of that composure, turning a public debate into a private, sleepless loop."
+    "explanation": "[The Pope says he can sleep](https://press.vatican.va/content/leo-xiv/en/speeches/2026/september/documents/20260928-francia-volo-ritorno.html), and the song immediately turns to the person who cannot. All the answers are within reach; peace is not."
   },
   {
     "id": "CL-058",
@@ -537,7 +537,7 @@
     "timestamp_seconds": 15.833333,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The crew’s earplugs update [the wax in Homer’s story](https://classics.mit.edu/Homer/odyssey.12.xii.html): they can keep rowing because they cannot hear the Sirens. Odysseus wants the dangerous experience for himself, so he needs ropes as well as people who will ignore his later pleas."
+    "explanation": "[The sailors in Homer used wax](https://classics.mit.edu/Homer/odyssey.12.xii.html), leaving only Odysseus to hear the Sirens. The orange earplug carries that old wisdom forward: some songs are easier to survive unheard."
   },
   {
     "id": "CL-059",
@@ -549,7 +549,7 @@
     "timestamp_seconds": 92.5,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The Siren delivers a plea for trust while the voyage enters its dangerous, enclosed middle passage. The scene sharpens the old [Siren bargain](https://en.wikipedia.org/wiki/Siren_%28mythology%29#Odyssey): the closer the listener gets to danger, the more urgently the voice invites him to keep believing."
+    "explanation": "The voyage is narrowing, but [the Siren’s invitation](https://en.wikipedia.org/wiki/Siren_%28mythology%29#Odyssey) only grows more urgent. Danger and the promise of rescue are coming from the same place."
   },
   {
     "id": "CL-063",
@@ -561,7 +561,7 @@
     "timestamp_seconds": 162.541667,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "By the final chorus, the earlier decision to accept restraint has become an urgent demand for release. That is the precise change a [Ulysses pact](https://en.wikipedia.org/wiki/Ulysses_pact) anticipates: your future wishes may change because of the influence your earlier self was trying to resist."
+    "explanation": "The voice that asked for restraint is now demanding release. This is the moment [Odysseus’s earlier self](https://en.wikipedia.org/wiki/Ulysses_pact) prepared for, before the song could make freedom feel like the only possible wish."
   },
   {
     "id": "CL-064",
@@ -573,7 +573,7 @@
     "timestamp_seconds": 183.458333,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "By the end, the Siren has crossed from a distant attraction into the listener’s immediate personal space. The scene makes [persuasion](https://www.anthropic.com/news/measuring-model-persuasiveness) feel less like winning one argument and more like remaining close enough to become part of every decision."
+    "explanation": "The distant singer has come all the way to the mast. [Persuasion](https://www.anthropic.com/news/measuring-model-persuasiveness) is no longer arriving as an argument across the water; it is close enough to whisper."
   },
   {
     "id": "CL-065",
@@ -585,7 +585,7 @@
     "timestamp_seconds": 70.833333,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The song has just mocked a skeptic for demanding more AI slop, and the Siren now approaches another sailor with personal attention. It turns the familiar [ELIZA effect](https://en.wikipedia.org/wiki/ELIZA_effect), reading understanding into a computer’s responses, into a social scene of warmth and apparent companionship."
+    "explanation": "The skeptic wanted another song, and now the Siren offers something quieter. [The feeling of being understood](https://en.wikipedia.org/wiki/ELIZA_effect) is another reason to let the voice stay."
   },
   {
     "id": "CL-066",
@@ -597,7 +597,7 @@
     "timestamp_seconds": 169.791667,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The rising rope-load readings make the struggle against the song into a literal test of the restraint system. This is a [commitment device](https://en.wikipedia.org/wiki/Ulysses_pact) under pressure: the protection was chosen beforehand, but now it has to survive the listener’s strongest wish to undo it."
+    "explanation": "The ropes have to hold against the very person who chose them. [Odysseus’s bargain](https://en.wikipedia.org/wiki/Ulysses_pact) has reached its hardest moment: wanting the protection gone is exactly why it is there."
   },
   {
     "id": "CL-019-organic-v4",
@@ -609,7 +609,7 @@
     "timestamp_seconds": 67.75,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The doomer recognizes the video as [AI slop](https://en.wikipedia.org/wiki/AI_slop), complains about it, and immediately wants more. That contradiction is the punchline: being skeptical of the content does not make him immune to enjoying or spreading it."
+    "explanation": "The doomer knows it is [AI slop](https://en.wikipedia.org/wiki/AI_slop), and he knows exactly what is wrong with it. He would also like you to send him more."
   },
   {
     "id": "CL-021-organic-v4",
@@ -621,7 +621,7 @@
     "timestamp_seconds": 77.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "This points to [Grimes’s interview with Nnedi Okorafor](https://www.interviewmagazine.com/music/the-return-of-grimes), where she says she believes AI may be sentient and acknowledges her own possible bias. The video uses her self-deprecating remark as a joke about being emotionally won over by AI; it is not evidence of a medical diagnosis."
+    "explanation": "[Grimes admits she may be biased](https://www.interviewmagazine.com/music/the-return-of-grimes), even while believing there may be a mind on the other side of the conversation. Her half-joking worry about AI psychosis drifts through the song as another confession of being drawn in."
   },
   {
     "id": "CL-023-organic-v4",
@@ -633,7 +633,7 @@
     "timestamp_seconds": 85.0,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "[P(doom)](https://en.wikipedia.org/wiki/P%28doom%29) is shorthand for someone’s estimated chance of an AI catastrophe. Here the estimate falls because the song and the Siren feel so good, which is the joke: enjoyment has quietly taken the place of evidence about safety."
+    "explanation": "The [odds of AI disaster](https://en.wikipedia.org/wiki/P%28doom%29) fall as the Siren leans closer. Nothing about the world has changed; the song is just that good."
   },
   {
     "id": "CL-X01-organic-v4",
@@ -645,6 +645,6 @@
     "timestamp_seconds": 10.333333,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "explanation": "The Siren answers a request for trust by appealing to her own apparent sincerity. That is the trap behind the video’s [superpersuasion](https://www.lesswrong.com/posts/cGFBqg9SKsqbuzNHF/levels-of-superpersuasion) theme: a convincing answer about trustworthiness can itself be part of the attempt to win your trust."
+    "explanation": "The Siren answers the question of trust with another invitation to trust her. That is the unease of [superpersuasion](https://www.lesswrong.com/posts/cGFBqg9SKsqbuzNHF/levels-of-superpersuasion): even the reassurance may be part of the song."
   }
 ]
