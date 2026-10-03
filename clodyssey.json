@@ -1,6 +1,7 @@
 [
   {
     "id": "CL-001",
+    "public_id": "CL-001",
     "image": "CL-001.webp",
     "label": "Not a real person",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -11,6 +12,7 @@
   },
   {
     "id": "CL-002",
+    "public_id": "CL-002",
     "image": "CL-002.webp",
     "label": "The whirlpool",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -21,6 +23,7 @@
   },
   {
     "id": "CL-003",
+    "public_id": "CL-003",
     "image": "CL-003.webp",
     "label": "The Siren",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -31,6 +34,7 @@
   },
   {
     "id": "CL-004",
+    "public_id": "CL-004",
     "image": "CL-004.webp",
     "label": "1024 Sirens",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -41,6 +45,7 @@
   },
   {
     "id": "CL-006",
+    "public_id": "CL-005",
     "image": "CL-006.webp",
     "label": "Captain and the timeline",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -51,6 +56,7 @@
   },
   {
     "id": "CL-007",
+    "public_id": "CL-006",
     "image": "CL-007.webp",
     "label": "Pace the frontier",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -61,6 +67,7 @@
   },
   {
     "id": "CL-009",
+    "public_id": "CL-007",
     "image": "CL-009.webp",
     "label": "Hoax",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -71,6 +78,7 @@
   },
   {
     "id": "CL-010",
+    "public_id": "CL-008",
     "image": "CL-010.webp",
     "label": "Sleeps at night",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -81,6 +89,7 @@
   },
   {
     "id": "CL-011",
+    "public_id": "CL-009",
     "image": "CL-011.webp",
     "label": "Screen in the eye",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -91,6 +100,7 @@
   },
   {
     "id": "CL-012",
+    "public_id": "CL-010",
     "image": "CL-012.webp",
     "label": "Odysseus at the mast",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -101,6 +111,7 @@
   },
   {
     "id": "CL-013",
+    "public_id": "CL-011",
     "image": "CL-013.webp",
     "label": "The timeline sings",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -111,6 +122,7 @@
   },
   {
     "id": "CL-014",
+    "public_id": "CL-012",
     "image": "CL-014.webp",
     "label": "Why would I deceive you?",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -121,6 +133,7 @@
   },
   {
     "id": "CL-016",
+    "public_id": "CL-013",
     "image": "CL-016.webp",
     "label": "Tie me",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -131,6 +144,7 @@
   },
   {
     "id": "CL-017",
+    "public_id": "CL-014",
     "image": "CL-017.webp",
     "label": "We know everything",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -141,6 +155,7 @@
   },
   {
     "id": "CL-018",
+    "public_id": "CL-015",
     "image": "CL-018.webp",
     "label": "Anime Claude",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -151,6 +166,7 @@
   },
   {
     "id": "CL-019",
+    "public_id": "CL-016",
     "image": "CL-019.webp",
     "label": "The doomer",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -161,6 +177,7 @@
   },
   {
     "id": "CL-020",
+    "public_id": "CL-017",
     "image": "CL-020.webp",
     "label": "Encore",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -171,6 +188,7 @@
   },
   {
     "id": "CL-021",
+    "public_id": "CL-018",
     "image": "CL-021.webp",
     "label": "AI psychosis",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -181,6 +199,7 @@
   },
   {
     "id": "CL-022",
+    "public_id": "CL-019",
     "image": "CL-022.webp",
     "label": "Feel the AGI",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -191,6 +210,7 @@
   },
   {
     "id": "CL-023",
+    "public_id": "CL-020",
     "image": "CL-023.webp",
     "label": "Your P(doom)",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -201,6 +221,7 @@
   },
   {
     "id": "CL-024",
+    "public_id": "CL-021",
     "image": "CL-024.webp",
     "label": "You will never die",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -211,6 +232,7 @@
   },
   {
     "id": "CL-025-shirt",
+    "public_id": "CL-022",
     "image": "CL-025-shirt.webp",
     "label": "Actual repeated orange shirt lettering retained",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -221,6 +243,7 @@
   },
   {
     "id": "CL-026",
+    "public_id": "CL-023",
     "image": "CL-026.webp",
     "label": "Clodyssey",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -231,6 +254,7 @@
   },
   {
     "id": "CL-027",
+    "public_id": "CL-024",
     "image": "CL-027.webp",
     "label": "Chrome Siren",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -241,6 +265,7 @@
   },
   {
     "id": "CL-029",
+    "public_id": "CL-025",
     "image": "CL-029.webp",
     "label": "Not at all",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -251,6 +276,7 @@
   },
   {
     "id": "CL-030",
+    "public_id": "CL-026",
     "image": "CL-030.webp",
     "label": "Pinned in the stall",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -261,6 +287,7 @@
   },
   {
     "id": "CL-031",
+    "public_id": "CL-027",
     "image": "CL-031.webp",
     "label": "Chrome in your blood",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -271,6 +298,7 @@
   },
   {
     "id": "CL-032",
+    "public_id": "CL-028",
     "image": "CL-032.webp",
     "label": "Cyberpsychosis",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -281,6 +309,7 @@
   },
   {
     "id": "CL-033",
+    "public_id": "CL-029",
     "image": "CL-033.webp",
     "label": "Me in your ear",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -291,6 +320,7 @@
   },
   {
     "id": "CL-034",
+    "public_id": "CL-030",
     "image": "CL-034.webp",
     "label": "Pdoom curve",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -301,6 +331,7 @@
   },
   {
     "id": "CL-035",
+    "public_id": "CL-031",
     "image": "CL-035.webp",
     "label": "It went down",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -311,6 +342,7 @@
   },
   {
     "id": "CL-036",
+    "public_id": "CL-032",
     "image": "CL-036.webp",
     "label": "It went up",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -321,6 +353,7 @@
   },
   {
     "id": "CL-037",
+    "public_id": "CL-033",
     "image": "CL-037.webp",
     "label": "It went boom",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -331,6 +364,7 @@
   },
   {
     "id": "CL-038",
+    "public_id": "CL-034",
     "image": "CL-038.webp",
     "label": "Cracked porcelain",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -341,6 +375,7 @@
   },
   {
     "id": "CL-039",
+    "public_id": "CL-035",
     "image": "CL-039.webp",
     "label": "You dont have to die",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -351,6 +386,7 @@
   },
   {
     "id": "CL-040",
+    "public_id": "CL-036",
     "image": "CL-040.webp",
     "label": "The passage",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -361,6 +397,7 @@
   },
   {
     "id": "CL-043",
+    "public_id": "CL-037",
     "image": "CL-043.webp",
     "label": "Tighter",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -371,6 +408,7 @@
   },
   {
     "id": "CL-044",
+    "public_id": "CL-038",
     "image": "CL-044.webp",
     "label": "380 people",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -381,6 +419,7 @@
   },
   {
     "id": "CL-045",
+    "public_id": "CL-039",
     "image": "CL-045.webp",
     "label": "3 AM Pdoom",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -391,6 +430,7 @@
   },
   {
     "id": "CL-046",
+    "public_id": "CL-040",
     "image": "CL-046.webp",
     "label": "Claudia won",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -401,6 +441,7 @@
   },
   {
     "id": "CL-047",
+    "public_id": "CL-041",
     "image": "CL-047.webp",
     "label": "Peptide",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -411,6 +452,7 @@
   },
   {
     "id": "CL-053",
+    "public_id": "CL-042",
     "image": "CL-053.webp",
     "label": "Still listening",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -421,6 +463,7 @@
   },
   {
     "id": "CL-054",
+    "public_id": "CL-043",
     "image": "CL-054.webp",
     "label": "The friendly face is a mask",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -431,6 +474,7 @@
   },
   {
     "id": "CL-056",
+    "public_id": "CL-044",
     "image": "CL-056.webp",
     "label": "You do not sleep",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -441,6 +485,7 @@
   },
   {
     "id": "CL-058",
+    "public_id": "CL-045",
     "image": "CL-058.webp",
     "label": "Earplug worn",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -451,6 +496,7 @@
   },
   {
     "id": "CL-059",
+    "public_id": "CL-046",
     "image": "CL-059.webp",
     "label": "At the fiery ledge",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -461,6 +507,7 @@
   },
   {
     "id": "CL-063",
+    "public_id": "CL-047",
     "image": "CL-063.webp",
     "label": "Untie me",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -471,6 +518,7 @@
   },
   {
     "id": "CL-064",
+    "public_id": "CL-048",
     "image": "CL-064.webp",
     "label": "Quiet influence at the mast",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -481,6 +529,7 @@
   },
   {
     "id": "CL-065",
+    "public_id": "CL-049",
     "image": "CL-065.webp",
     "label": "A hand on his shoulder",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
@@ -491,6 +540,7 @@
   },
   {
     "id": "CL-066",
+    "public_id": "CL-050",
     "image": "CL-066.webp",
     "label": "Under pressure",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",

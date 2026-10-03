@@ -1,6 +1,7 @@
 [
   {
     "id": "EV-001-U",
+    "public_id": "EV-001",
     "image": "EV-001-U.webp",
     "label": "Countdown: 24 months",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -12,6 +13,7 @@
   },
   {
     "id": "EV-002-U",
+    "public_id": "EV-002",
     "image": "EV-002-U.webp",
     "label": "Escape vehicle",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -23,6 +25,7 @@
   },
   {
     "id": "EV-004-U",
+    "public_id": "EV-003",
     "image": "EV-004-U.webp",
     "label": "Prepare to walk",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -34,6 +37,7 @@
   },
   {
     "id": "EV-005",
+    "public_id": "EV-004",
     "image": "EV-005.webp",
     "label": "AGI era",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -45,6 +49,7 @@
   },
   {
     "id": "EV-006-U",
+    "public_id": "EV-005",
     "image": "EV-006-U.webp",
     "label": "AGI CGI CSI MIAMI",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -56,6 +61,7 @@
   },
   {
     "id": "EV-007-U",
+    "public_id": "EV-006",
     "image": "EV-007-U.webp",
     "label": "13 Mac minis",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -67,6 +73,7 @@
   },
   {
     "id": "EV-009",
+    "public_id": "EV-007",
     "image": "EV-009.webp",
     "label": "Usage limit dad cap",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -78,6 +85,7 @@
   },
   {
     "id": "EV-010-U",
+    "public_id": "EV-008",
     "image": "EV-010-U.webp",
     "label": "25% becomes 17%",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -89,6 +97,7 @@
   },
   {
     "id": "EV-011-U",
+    "public_id": "EV-009",
     "image": "EV-011-U.webp",
     "label": "Shoes off North Beach",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -100,6 +109,7 @@
   },
   {
     "id": "EV-012",
+    "public_id": "EV-010",
     "image": "EV-012.webp",
     "label": "Retired",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -111,6 +121,7 @@
   },
   {
     "id": "EV-013-U",
+    "public_id": "EV-011",
     "image": "EV-013-U.webp",
     "label": "Our Waymo",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -122,6 +133,7 @@
   },
   {
     "id": "EV-014",
+    "public_id": "EV-012",
     "image": "EV-014.webp",
     "label": "Like, the singularity",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -133,6 +145,7 @@
   },
   {
     "id": "EV-014-U",
+    "public_id": "EV-013",
     "image": "EV-014-U.webp",
     "label": "Like, the singularity",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -144,6 +157,7 @@
   },
   {
     "id": "EV-015-U",
+    "public_id": "EV-014",
     "image": "EV-015-U.webp",
     "label": "No grades",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -155,6 +169,7 @@
   },
   {
     "id": "EV-016",
+    "public_id": "EV-015",
     "image": "EV-016.webp",
     "label": "Don’t be a meat proxy",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -166,6 +181,7 @@
   },
   {
     "id": "EV-016-U",
+    "public_id": "EV-016",
     "image": "EV-016-U.webp",
     "label": "Don’t be a meat proxy",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -177,6 +193,7 @@
   },
   {
     "id": "EV-017",
+    "public_id": "EV-017",
     "image": "EV-017.webp",
     "label": "That’s so agentic",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -188,6 +205,7 @@
   },
   {
     "id": "EV-019-U",
+    "public_id": "EV-018",
     "image": "EV-019-U.webp",
     "label": "Escape velocity",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -199,6 +217,7 @@
   },
   {
     "id": "EV-020",
+    "public_id": "EV-019",
     "image": "EV-020.webp",
     "label": "Runway spin",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -210,6 +229,7 @@
   },
   {
     "id": "EV-021-U",
+    "public_id": "EV-020",
     "image": "EV-021-U.webp",
     "label": "We’re so back",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -221,6 +241,7 @@
   },
   {
     "id": "EV-022",
+    "public_id": "EV-021",
     "image": "EV-022.webp",
     "label": "It’s so over?",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -232,6 +253,7 @@
   },
   {
     "id": "EV-023",
+    "public_id": "EV-022",
     "image": "EV-023.webp",
     "label": "Impossible puzzles",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -243,6 +265,7 @@
   },
   {
     "id": "EV-024",
+    "public_id": "EV-023",
     "image": "EV-024.webp",
     "label": "Twin agents",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -254,6 +277,7 @@
   },
   {
     "id": "EV-026-U",
+    "public_id": "EV-024",
     "image": "EV-026-U.webp",
     "label": "Zero-day answer keys",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -265,6 +289,7 @@
   },
   {
     "id": "EV-027-U",
+    "public_id": "EV-025",
     "image": "EV-027-U.webp",
     "label": "Hugging-face pin",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -276,6 +301,7 @@
   },
   {
     "id": "EV-030",
+    "public_id": "EV-026",
     "image": "EV-030.webp",
     "label": "Not AI SI",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -287,6 +313,7 @@
   },
   {
     "id": "EV-031-U",
+    "public_id": "EV-027",
     "image": "EV-031-U.webp",
     "label": "Trust us",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -298,6 +325,7 @@
   },
   {
     "id": "EV-031-V",
+    "public_id": "EV-028",
     "image": "EV-031-V.webp",
     "label": "Terms of trust — panel only",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -309,6 +337,7 @@
   },
   {
     "id": "EV-032-U",
+    "public_id": "EV-029",
     "image": "EV-032-U.webp",
     "label": "Cashmere",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -320,6 +349,7 @@
   },
   {
     "id": "EV-033",
+    "public_id": "EV-030",
     "image": "EV-033.webp",
     "label": "Immortals three seats",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -331,6 +361,7 @@
   },
   {
     "id": "EV-035",
+    "public_id": "EV-031",
     "image": "EV-035.webp",
     "label": "Six months",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -342,6 +373,7 @@
   },
   {
     "id": "EV-035-U",
+    "public_id": "EV-032",
     "image": "EV-035-U.webp",
     "label": "Six months",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -353,6 +385,7 @@
   },
   {
     "id": "EV-036",
+    "public_id": "EV-033",
     "image": "EV-036.webp",
     "label": "Velocity road sign",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -364,6 +397,7 @@
   },
   {
     "id": "EV-037",
+    "public_id": "EV-034",
     "image": "EV-037.webp",
     "label": "Velocity eye",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -375,6 +409,7 @@
   },
   {
     "id": "EV-038-U",
+    "public_id": "EV-035",
     "image": "EV-038-U.webp",
     "label": "Longevity escape velocity",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -386,6 +421,7 @@
   },
   {
     "id": "EV-040",
+    "public_id": "EV-036",
     "image": "EV-040.webp",
     "label": "Daylight no-underclass road board",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -397,6 +433,7 @@
   },
   {
     "id": "EV-042-U",
+    "public_id": "EV-037",
     "image": "EV-042-U.webp",
     "label": "Country of geniuses",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -408,6 +445,7 @@
   },
   {
     "id": "EV-045-U",
+    "public_id": "EV-038",
     "image": "EV-045-U.webp",
     "label": "Sora gone dark",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -419,6 +457,7 @@
   },
   {
     "id": "EV-047",
+    "public_id": "EV-039",
     "image": "EV-047.webp",
     "label": "Leap",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -430,6 +469,7 @@
   },
   {
     "id": "EV-048",
+    "public_id": "EV-040",
     "image": "EV-048.webp",
     "label": "Make happier",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -441,6 +481,7 @@
   },
   {
     "id": "EV-049-U",
+    "public_id": "EV-041",
     "image": "EV-049-U.webp",
     "label": "Not our slopocalypse",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -452,6 +493,7 @@
   },
   {
     "id": "EV-051-U",
+    "public_id": "EV-042",
     "image": "EV-051-U.webp",
     "label": "Escape",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -463,6 +505,7 @@
   },
   {
     "id": "EV-052",
+    "public_id": "EV-043",
     "image": "EV-052.webp",
     "label": "Shell optimism lining doom",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -474,6 +517,7 @@
   },
   {
     "id": "EV-054",
+    "public_id": "EV-044",
     "image": "EV-054.webp",
     "label": "Escape Velocity tag",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -485,6 +529,7 @@
   },
   {
     "id": "EV-056",
+    "public_id": "EV-045",
     "image": "EV-056.webp",
     "label": "Orange star",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -496,6 +541,7 @@
   },
   {
     "id": "EV-057",
+    "public_id": "EV-046",
     "image": "EV-057.webp",
     "label": "Feel the AGI",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -507,6 +553,7 @@
   },
   {
     "id": "EV-057-U",
+    "public_id": "EV-047",
     "image": "EV-057-U.webp",
     "label": "Feel the AGI",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -518,6 +565,7 @@
   },
   {
     "id": "EV-064",
+    "public_id": "EV-048",
     "image": "EV-064.webp",
     "label": "Taste is the moat",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -529,6 +577,7 @@
   },
   {
     "id": "EV-065",
+    "public_id": "EV-049",
     "image": "EV-065.webp",
     "label": "Pedal not found",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -540,6 +589,7 @@
   },
   {
     "id": "EV-065-U",
+    "public_id": "EV-050",
     "image": "EV-065-U.webp",
     "label": "Pedal not found",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -551,6 +601,7 @@
   },
   {
     "id": "EV-066-U",
+    "public_id": "EV-051",
     "image": "EV-066-U.webp",
     "label": "Hacked in July",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -562,6 +613,7 @@
   },
   {
     "id": "EV-068",
+    "public_id": "EV-052",
     "image": "EV-068.webp",
     "label": "They say brakes we say gas",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -573,6 +625,7 @@
   },
   {
     "id": "EV-069",
+    "public_id": "EV-053",
     "image": "EV-069.webp",
     "label": "Ban artificial superintelligence act",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -584,6 +637,7 @@
   },
   {
     "id": "EV-070",
+    "public_id": "EV-054",
     "image": "EV-070.webp",
     "label": "So over so back poll",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -595,6 +649,7 @@
   },
   {
     "id": "EV-072",
+    "public_id": "EV-055",
     "image": "EV-072.webp",
     "label": "Did terminal",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -606,6 +661,7 @@
   },
   {
     "id": "EV-074",
+    "public_id": "EV-056",
     "image": "EV-074.webp",
     "label": "Locked mechanism",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -617,6 +673,7 @@
   },
   {
     "id": "EV-078",
+    "public_id": "EV-057",
     "image": "EV-078.webp",
     "label": "End of show",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
@@ -628,6 +685,7 @@
   },
   {
     "id": "EV-079",
+    "public_id": "EV-058",
     "image": "EV-079.webp",
     "label": "Signature orange star",
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
