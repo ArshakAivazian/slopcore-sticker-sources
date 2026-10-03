@@ -129,7 +129,8 @@
     "timestamp_seconds": 64,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "video_author": "anabology"
+    "video_author": "anabology",
+    "explanation": "The [technological singularity](https://en.wikipedia.org/wiki/Technological_singularity) is the hypothetical threshold where superhuman intelligence makes the pace and direction of change difficult for humans to predict. The casual delivery turns that enormous possibility into ordinary tech-scene small talk, as though the end of the familiar world were just another podcast topic."
   },
   {
     "id": "EV-014-U",
@@ -141,7 +142,8 @@
     "timestamp_seconds": 64,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "video_author": "anabology"
+    "video_author": "anabology",
+    "explanation": "The [technological singularity](https://en.wikipedia.org/wiki/Technological_singularity) is the hypothetical threshold where superhuman intelligence makes the pace and direction of change difficult for humans to predict. The casual delivery turns that enormous possibility into ordinary tech-scene small talk, as though the end of the familiar world were just another podcast topic."
   },
   {
     "id": "EV-015-U",
@@ -189,7 +191,8 @@
     "timestamp_seconds": 73,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "video_author": "anabology"
+    "video_author": "anabology",
+    "explanation": "An AI [agent](https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/) can work through a task, use tools and take actions with some independence. The line turns that technical vocabulary into a social compliment, as though a person’s initiative were a feature of autonomous software."
   },
   {
     "id": "EV-019-U",
@@ -405,7 +408,8 @@
     "timestamp_seconds": 197,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "video_author": "anabology"
+    "video_author": "anabology",
+    "explanation": "[Longevity escape velocity](https://en.wikipedia.org/wiki/Longevity_escape_velocity) is the hypothetical point where improvements in rejuvenation medicine add remaining healthy life faster than time takes it away. The song folds this race against aging into its wider rush toward an AI future, so escape means outrunning death as well as economic obsolescence."
   },
   {
     "id": "EV-040",
@@ -429,7 +433,8 @@
     "timestamp_seconds": 228.7,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "video_author": "anabology"
+    "video_author": "anabology",
+    "explanation": "Dario Amodei’s [country of geniuses in a datacenter](https://darioamodei.com/essay/machines-of-loving-grace) imagines millions of exceptionally capable AI workers running faster than humans and collaborating on difficult problems. The leap is from one impressive chatbot to an entire scientific and technical workforce. The scene turns that thought experiment into a burst of excitement, while Amodei’s original essay stresses that experiments, hardware and the physical world would still impose limits."
   },
   {
     "id": "EV-045-U",
@@ -441,7 +446,8 @@
     "timestamp_seconds": 235,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "video_author": "anabology"
+    "video_author": "anabology",
+    "explanation": "[Sora’s shutdown](https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation) gives the line a concrete reference: OpenAI discontinued the video generator’s web and app experiences in April 2026 and announced September 24 as the API’s end date. The lyric catches a strange feature of the AI boom: a tool can look like a glimpse of the future and still disappear as a product."
   },
   {
     "id": "EV-047",
@@ -465,7 +471,8 @@
     "timestamp_seconds": 244.8,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "video_author": "anabology"
+    "video_author": "anabology",
+    "explanation": "The command uses [Claude Code’s /loop](https://claude.com/blog/getting-started-with-loops), which reruns a prompt at intervals, and echoes [Anish Acharya’s argument](https://www.lennysnewsletter.com/p/why-companies-are-becoming-a-series) that making people happier is a major opportunity for consumer AI. A coding loop usually repeats a concrete job, such as checking a pull request; this one hands it the much less measurable job of improving a life. The joke compresses an enormous human wish into the syntax of a routine background task."
   },
   {
     "id": "EV-049-U",
@@ -501,7 +508,8 @@
     "timestamp_seconds": 279.8,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "video_author": "anabology"
+    "video_author": "anabology",
+    "explanation": "Optimism is the outer material and doom is the lining: opposite attitudes to AI, stitched into the same outfit. The care-label joke captures how outward excitement about progress can coexist with a much darker expectation of where it leads."
   },
   {
     "id": "EV-054",
@@ -525,7 +533,8 @@
     "timestamp_seconds": 89,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "video_author": "anabology"
+    "video_author": "anabology",
+    "explanation": "[AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence) means artificial intelligence with broad capabilities across many kinds of tasks. Here that technical ambition becomes the euphoric hook of a pop song: something to feel and rally around, even while its meaning and arrival remain contested."
   },
   {
     "id": "EV-057-U",
@@ -537,7 +546,8 @@
     "timestamp_seconds": 89,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "video_author": "anabology"
+    "video_author": "anabology",
+    "explanation": "[AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence) means artificial intelligence with broad capabilities across many kinds of tasks. Here that technical ambition becomes the euphoric hook of a pop song: something to feel and rally around, even while its meaning and arrival remain contested."
   },
   {
     "id": "EV-064",
@@ -549,7 +559,8 @@
     "timestamp_seconds": 68.9,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
-    "video_author": "anabology"
+    "video_author": "anabology",
+    "explanation": "A [moat](https://en.wikipedia.org/wiki/Economic_moat) is a durable advantage that makes a business difficult to compete with. The song applies that idea to taste: if producing competent work becomes cheap, deciding what is worth making may be the scarce part. It gives the fashion-show setting a pointed answer to the fear of becoming interchangeable."
   },
   {
     "id": "EV-065",
@@ -691,18 +702,6 @@
     "video_title": "SLOPCORE: ESCAPE VELOCITY",
     "video_url": "https://www.youtube.com/watch?v=C3fxudvU-UU&t=177s",
     "timestamp_seconds": 177.75,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation",
-    "video_author": "anabology"
-  },
-  {
-    "id": "EV-081-SF-MAP",
-    "public_id": "EV-062",
-    "image": "EV-081-SF-MAP.webp",
-    "label": "San Francisco origin map",
-    "video_title": "SLOPCORE: ESCAPE VELOCITY",
-    "video_url": "https://www.youtube.com/watch?v=C3fxudvU-UU&t=290s",
-    "timestamp_seconds": 290,
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
     "video_author": "anabology"
