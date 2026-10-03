@@ -96,18 +96,6 @@
     "video_author": "anabology"
   },
   {
-    "id": "EV-011-U",
-    "public_id": "EV-009",
-    "image": "EV-011-U.webp",
-    "label": "Shoes off North Beach",
-    "video_title": "SLOPCORE: ESCAPE VELOCITY",
-    "video_url": "https://www.youtube.com/watch?v=C3fxudvU-UU&t=49s",
-    "timestamp_seconds": 49.08,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation",
-    "video_author": "anabology"
-  },
-  {
     "id": "EV-012",
     "public_id": "EV-010",
     "image": "EV-012.webp",
